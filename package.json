@@ -16,6 +16,7 @@
     "web3modal": "^1.9.12"
   },
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.2",
     "@tailwindcss/postcss": "^4.2.4",
     "babel-plugin-react-compiler": "1.0.0",
     "hardhat": "^2.13.0",
